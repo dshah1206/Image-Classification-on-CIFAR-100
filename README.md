@@ -3,6 +3,7 @@
 ## Data and File Description
 
 For data used in Hand Made Model: The files can be downloaded from https://www.kaggle.com/c/sjsu-cmpe-258-fa21-lab1/data
+
 For data used in Transfer Learning Model: The files can be downloaded from https://www.kaggle.com/c/sjsu-cmpe-258-fa21-lab1-t/data
 
 The data consists of 32x32 RGB image each represented as an array of 3072 elements between 0 and 255. To reassemble the images, each 3072 long array can be directly reshaped into a (32,32,3) matrix.
